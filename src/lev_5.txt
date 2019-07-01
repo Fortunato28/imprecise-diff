@@ -1,0 +1,108 @@
+    Finished release [optimized] target(s) in 0.00s
+     Running `/home/fort/Programming/rust/diff_between_two_files/target/release/diff_between_two_files`
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Itcsnatproxy_Compile_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 7
+Successfully created result_diff.txt.
+[src/main.rs:59] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/upduacsettings_Win32_Release"
+Directory has 1 file!
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Mailtrans_Compile_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 10
+Successfully created result_diff.txt.
+[src/main.rs:59] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/upduacsettings_Compile_Win32_Debug_143"
+Directory has 1 file!
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/msiregional_Compile_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 14
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/mftp2_crypt_Compile_Win32_Debug"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 6
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/msiregional_Compile_Win32_Debug"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 13
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/mailtrans_console_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 78
+Successfully created result_diff.txt.
+[src/main.rs:59] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/vipnetln_Compile_Win32_Debug_213"
+Directory has 1 file!
+[src/main.rs:59] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/vipnetln_Compile_Win32_Release"
+Directory has 1 file!
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Setup.sln_Compile_x64_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 52
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Setup.sln_Compile_x64_Debug_1410"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 98
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/setup_inf_Compile_x64_Debug_159"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 25
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/RF_Compile_Win32_Debug"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 19
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Setup.sln_Compile_Win32_Debug"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 91
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/setup_inf_Compile_x64_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 67
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/RF_Compile_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 13
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/mailtrans_console_Win32_Debug"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 19
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Mailtrans_Compile_Win32_Debug"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 79
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/PVS_Analysis_swagent_Setup_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 0
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/PVS_Analysis_Vipnetln_Setup_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 28
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Setup.sln_Compile_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 122
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Itcsnatproxy_Compile_Win32_Debug"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 7
+Successfully created result_diff.txt.
+[src/main.rs:59] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Style_Analysis_OK (2)"
+Directory has 1 file!
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Windows_Mail_Compile_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 2
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/PVS_Analysis_UpdUacSettings_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 3
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/mftp2_crypt_Compile_Win32_Release"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 6
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/setup_inf_Compile_Win32_Debug_162"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 10
+Successfully created result_diff.txt.
+[src/main.rs:76] &current_dir.name = "/home/fort/Programming/rust/diff_between_two_files/build_diff/Windows_Mail_Compile_Win32_Debug_208"
+Deleted result_diff.txt
+[src/main.rs:135] &diff.len() = 2
+Successfully created result_diff.txt.
